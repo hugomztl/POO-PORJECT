@@ -1,0 +1,5 @@
+﻿  Interface.cpp
+C:\Users\hugom\OneDrive\Bureau\CESI\Semestrre 1\POO\PROJET\PROJET_DB\Authentify.h(298,1): warning C4554: '&' : vérifiez si la priorité des opérateurs n'est pas une cause possible d'erreur ; utilisez des parenthèses pour rendre les priorités plus claires
+C:\Users\hugom\OneDrive\Bureau\CESI\Semestrre 1\POO\PROJET\PROJET_DB\Authentify.h(303,1): warning C4554: '&' : vérifiez si la priorité des opérateurs n'est pas une cause possible d'erreur ; utilisez des parenthèses pour rendre les priorités plus claires
+  Authentify.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  PROJET_DB.vcxproj -> C:\Users\hugom\OneDrive\Bureau\CESI\Semestrre 1\POO\PROJET\PROJET_DB\Debug\PROJET_DB.exe

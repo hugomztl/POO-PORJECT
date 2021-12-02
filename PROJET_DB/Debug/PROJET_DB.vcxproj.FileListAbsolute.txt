@@ -1,0 +1,5 @@
+C:\Users\hugom\OneDrive\Bureau\CESI\Semestrre 1\POO\PROJET\PROJET_DB\Debug\PROJETDB.Interface.resources
+C:\Users\hugom\OneDrive\Bureau\CESI\Semestrre 1\POO\PROJET\PROJET_DB\Debug\PROJET_DB.vcxproj.GenerateResource.cache
+C:\Users\hugom\OneDrive\Bureau\CESI\Semestrre 1\POO\PROJET\PROJET_DB\Debug\PROJET_DB.exe
+C:\Users\hugom\OneDrive\Bureau\CESI\Semestrre 1\POO\PROJET\PROJET_DB\Debug\PROJET_DB.vcxproj.AssemblyReference.cache
+C:\Users\hugom\OneDrive\Bureau\CESI\Semestrre 1\POO\PROJET\PROJET_DB\Debug\PROJETDB.Authentify.resources
